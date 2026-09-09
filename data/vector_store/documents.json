@@ -1,0 +1,56 @@
+[
+    {
+        "id": "7 a.pdf_0",
+        "filename": "7 a.pdf",
+        "chunk_id": 0,
+        "content": "2.3.1. Measurement of Direct Radiation using Pyrheliometer \nA pyrheliometer is an instrument which measures the direct beam solar radiation. It \ninstrument which collimates the radiation to determine the beam intensity as a function \nincident angle. To measure the direct solar radiation correctly, its receiving surface mus \narranged to be normal to the solar direction i.e., a line joining the sun and receiver. Fort \nreason, the instrument is usually mounted on a sun-tracking device called an equatorial mo \nIn this device, a sensor disc is located at the base of a tube whose axis is aligned with \ndirection of the sun rays. Thus, the diffuse radiation is essentially blocked from the s \nsurface. Most of the pyrheliometers operate on the principle of thermopile effect. The dit \ncomponent is avoided by installing a collimator tube over the sensor with a circular cone anş \nof about 5°, \nThree types of pyrheliometers are used to measure the normal incident beam radi \nThey are as follows: \n1."
+    },
+    {
+        "id": "7 a.pdf_1",
+        "filename": "7 a.pdf",
+        "chunk_id": 1,
+        "content": "oided by installing a collimator tube over the sensor with a circular cone anş \nof about 5°, \nThree types of pyrheliometers are used to measure the normal incident beam radi \nThey are as follows: \n1. Angstrom pyrheliometer \n2. Abbot silver disc pyrheliometer \n3. Eppley pyrheliometer. \nI. Angstrom compensation pyrheliometer \nIn this type, a thin blackened shaded manganin strip (size 20 × 2 x 0.i mm) is e \nelectrically until it is at the same temperature as a similar strip which is exposed to \n\nSolar Energy \nradiation. Figure 2.7 shows the electric circuit of this pyrheliometer. Under steady state \nconditions (both strips at identical temperature), the energy used for heating is equal to the \nabsorbed solar energy. The thermocouples on the back of each strip is connected in opposition \nthrough a sensitive galvanometer to test the equality of temperature. \nHeated strip \nExposed \nstrip \nwhere \nKey \nI=Heating current in amperes \nKey \nFigure 2.7 Electric circuit of Angstrom compensation pyrh"
+    },
+    {
+        "id": "7 a.pdf_2",
+        "filename": "7 a.pdf",
+        "chunk_id": 2,
+        "content": "gh a sensitive galvanometer to test the equality of temperature. \nHeated strip \nExposed \nstrip \nwhere \nKey \nI=Heating current in amperes \nKey \nFigure 2.7 Electric circuit of Angstrom compensation pyrheliometer \nThe energy Hof direct radiation is calculated by using the formula. \nHDN = Direct radiation incident on the area normal to sun rays \nHpy = K[2 \nR \nK= Dimension and instrument constant = W. \nR-The resistance per unit length of the absorbing strip (Ncm). \nW-The mean width of the absorbing strip and \n2. Abbot silver disk pyrheliometer \na-The absorbing coefficient of the absorbing strip. \nHeating \nCurrent \nThermo-junction \nGalvanometer \n2.31 \nThis instrument was designed by Abbot in 1902 for the radiation measurement. A \nschematic diagram. of this device is shown in Figure 2.8. In this pyrheliometer, a silver disk \npainted black on its radiation-recejving side which is 3.8 cm in diameter and 0.7 cm thick is \npositioned at the lower end of a tube with diaphragms to limit the whole ap"
+    },
+    {
+        "id": "7 a.pdf_3",
+        "filename": "7 a.pdf",
+        "chunk_id": 3,
+        "content": "pyrheliometer, a silver disk \npainted black on its radiation-recejving side which is 3.8 cm in diameter and 0.7 cm thick is \npositioned at the lower end of a tube with diaphragms to limit the whole aperture to S.7°, \n\n2.32 \nThe disk is suspended by three fine steel wires inside a copper box which is encloscd \nwooded box to protect the instrument from the temperature change of the surrounding. Merc \nin glass thermometer is used to measure the temperature at the disk. A good contac: hots \nsilver disk and thermometer bulb is \nmaintained by using mercury. The \nthermometer stem is bent at right angle to \nmake this instrument more compact and casy \nto use. It is also supported in a metallic \nprotective tube. A cylinder with diaphragms \ninside is fitted in the wooden container to let \nthe direct solar radiation falling onto the silver \ndisk. There is a metallic-plate shutter at the top \nend of the cylinder to block or allow the \npassage of solar radiation to the disk. \nDuring the measurement"
+    },
+    {
+        "id": "7 a.pdf_4",
+        "filename": "7 a.pdf",
+        "chunk_id": 4,
+        "content": "solar radiation falling onto the silver \ndisk. There is a metallic-plate shutter at the top \nend of the cylinder to block or allow the \npassage of solar radiation to the disk. \nDuring the measurement phase, the disk \nis heated by solar radiation and its temperature \nrises. The intensity of this radiation is \nascertained by measuring the temperature \nchange of the disk between measurement \nphase and shading phase with the mercury-in \nglass thermometer. This type is, widely used \nfor calibrating pyranometers. \n3. Eppley pyrheliometer \nShutter \nCylinder \nRenewable Energy Techno \nDiaphragm \nCopper \ncase \nBlackened \npaint-silver dısc \nMercury-in \nglass \nthermomete \nWooden \nContauner \nFigure 2.8 Abbot silver disk pyrheliomet \nThe Eppley normal incidence pyrheliometer has found a wide acceptance in many pa \nof the world. It uses a thin silver disk of 9 mm in diameter as a receiver which is coated w \noptical black paint. Fifteen junctions of fine bismuth-silver thermocouples are in therr \ncont"
+    },
+    {
+        "id": "7 a.pdf_5",
+        "filename": "7 a.pdf",
+        "chunk_id": 5,
+        "content": "in many pa \nof the world. It uses a thin silver disk of 9 mm in diameter as a receiver which is coated w \noptical black paint. Fifteen junctions of fine bismuth-silver thermocouples are in therr \ncontact with an electrical insulation from the lower surface of the disk. The cold junctions \nin contact with the copper tube of the instrument. The unit is mounted at the base of a dou! \nwalled brass tube which is chromed externally and blackened internally. A series of limiti \ndiaphragms limits the aperture to a circular cone of full angle of 5.7º, The brass tube is till \nwith dry air and sealed with a crystal quartz window which is removable. A manually rotaa \nmeasurement is provided. A diopter is used to determine the direction of the sun. \ndisk which can accommodate three filters and leave one aperture for total spectrU \n\nSolar Energy \nThis instrument is supplied with an electrically driven equatorial mount for solar tracking The output of the pyrheliometer can be either directly recorded"
+    },
+    {
+        "id": "7 a.pdf_6",
+        "filename": "7 a.pdf",
+        "chunk_id": 6,
+        "content": "e aperture for total spectrU \n\nSolar Energy \nThis instrument is supplied with an electrically driven equatorial mount for solar tracking The output of the pyrheliometer can be either directly recorded on a strip chart recorder or \nintegrated is found to be very \nstable. \nan appropriate time period and registered. This instrument is found \nLinke-Feussner pyrheliometer \nIt is one of the most convenient \ninstruments used for measuring the direct \nradiation at normal incident with and \nwithout filters. A schematic diagram of this \ndevice is shown in Figure 2.9. \n2.33 \nMoll \nFilter \nthermopile \nThe main body of the instrument Rotating disc \nconsists of six massive copper rings. These \nrings are contoured on the inside of a tube \nto produce a set of radiation diaphragms for \ndecreasing internal reflections, defining the \nacceptance angle of the instrument and \nlimiting türbulent air currents inside the \ninstrument. Thus, it secures a high stability \nand good sensitivity. A rotating disk with"
+    },
+    {
+        "id": "7 a.pdf_7",
+        "filename": "7 a.pdf",
+        "chunk_id": 7,
+        "content": "reflections, defining the \nacceptance angle of the instrument and \nlimiting türbulent air currents inside the \ninstrument. Thus, it secures a high stability \nand good sensitivity. A rotating disk with \nfilters is positioned in the upper end of the tube. Figure 2.9 Linke-Feussner pyrheliometer \nScreening \n-head \nCopper \ndiaphragm \nAt the upper extremity of the tube is a special screening head which eliminates the \numwZnted reflection in filter measurements. This pyrheliometer employs a specially designed \nMoll thermopile receiver consisting of 40 manganese-constantan thermocouple arranged in a \nCircle of l cm diameter. The thermocouples are in two equal sectional arrays. One section is \nexposed to the radiation being measured and the other is shaded. Thus, the sections tend to \nCOmpensate each other for short period temperature fluctuations of the environment. The \naperture angle is approximately 10°. \nIn this instrument, five filters are usually provided fitted in the rotating disk. Th"
+    },
+    {
+        "id": "7 a.pdf_8",
+        "filename": "7 a.pdf",
+        "chunk_id": 8,
+        "content": "ach other for short period temperature fluctuations of the environment. The \naperture angle is approximately 10°. \nIn this instrument, five filters are usually provided fitted in the rotating disk. The filter \nmount is as well fitted with a double walled opaque disk for the use in zeroing the instrument, \nThis instrument is installed on a manually operated azimuth-elevation mount by which it can \nbe oriented in any direction."
+    }
+]

@@ -1,0 +1,243 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8"><meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+>
+
+<title>AI Learning & Study Assistant</title>
+
+<link
+    rel="stylesheet"
+    href="style.css"
+>
+
+</head><body><div class="app"><header class="topbar">
+
+    <div class="brand">
+
+        <div class="brand-icon">
+            AI
+        </div>
+
+        <div>
+            <h1>AI Learning & Study Assistant</h1>
+
+            <p>
+                Agentic AI for learning, revision and exam preparation
+            </p>
+        </div>
+
+    </div>
+
+    <div class="connection-status">
+        <span id="status-dot"></span>
+        <span id="status-text">Checking...</span>
+    </div>
+
+</header>
+
+
+<main class="workspace">
+
+    <aside class="sidebar">
+
+        <div class="sidebar-section">
+
+            <div class="section-title">
+                LEARNING TOOLS
+            </div>
+
+            <button
+                class="tool-card active"
+                data-prompt="Help me study from my uploaded course materials. What topics can I learn from them?"
+            >
+                <span class="tool-icon">📚</span>
+
+                <span>
+                    <strong>Course Q&A</strong>
+                    <small>Ask from course materials</small>
+                </span>
+            </button>
+
+
+            <button
+                class="tool-card"
+                data-prompt="Create a study plan for my upcoming exams. Ask me for my subjects, exam date and available study hours."
+            >
+                <span class="tool-icon">📅</span>
+
+                <span>
+                    <strong>Study Planner</strong>
+                    <small>Create a personalized plan</small>
+                </span>
+            </button>
+
+
+            <button
+                class="tool-card"
+                data-prompt="Create a 5-question medium-difficulty quiz from my uploaded course material."
+            >
+                <span class="tool-icon">✓</span>
+
+                <span>
+                    <strong>Quiz Generator</strong>
+                    <small>Practice for exams</small>
+                </span>
+            </button>
+
+        </div>
+
+
+        <div class="sidebar-section">
+
+            <div class="section-title">
+                ASSISTANT
+            </div>
+
+            <div class="capability">
+                <span>RAG</span>
+                Course-aware answers
+            </div>
+
+            <div class="capability">
+                <span>MEM</span>
+                Conversation memory
+            </div>
+
+            <div class="capability">
+                <span>TOOLS</span>
+                Calculator & web search
+            </div>
+
+            <div class="capability">
+                <span>AI</span>
+                Local LLM reasoning
+            </div>
+
+        </div>
+
+
+        <div class="sidebar-footer">
+
+            <div class="system-label">
+                SYSTEM STATUS
+            </div>
+
+            <div class="system-status">
+                <span class="status-indicator"></span>
+                Agent ready
+            </div>
+
+        </div>
+
+    </aside>
+
+
+    <section class="chat-panel">
+
+        <div class="chat-header">
+
+            <div>
+                <span class="eyebrow">
+                    AI STUDY ASSISTANT
+                </span>
+
+                <h2 id="chat-title">
+                    Your personal learning workspace
+                </h2>
+            </div>
+
+            <div class="agent-badge">
+                Agentic AI
+            </div>
+
+        </div>
+
+
+        <div
+            id="chat-messages"
+            class="chat-messages"
+        >
+
+            <div class="welcome-card">
+
+                <div class="welcome-icon">
+                    AI
+                </div>
+
+                <h3>
+                    Learn smarter. Prepare better.
+                </h3>
+
+                <p>
+                    Ask questions from your course materials,
+                    build study plans, generate quizzes,
+                    calculate problems or search for information.
+                </p>
+
+                <div class="quick-actions">
+
+                    <button
+                        class="quick-action"
+                        data-prompt="What is a pyrheliometer?"
+                    >
+                        <strong>Ask Course Material</strong>
+                        <span>Get an answer using RAG</span>
+                    </button>
+
+                    <button
+                        class="quick-action"
+                        data-prompt="Create a study plan for my exams. I have 10 days and can study 4 hours per day."
+                    >
+                        <strong>Create Study Plan</strong>
+                        <span>Plan your preparation</span>
+                    </button>
+
+                    <button
+                        class="quick-action"
+                        data-prompt="Create a 5-question quiz about pyrheliometers from my course material."
+                    >
+                        <strong>Generate Quiz</strong>
+                        <span>Test your knowledge</span>
+                    </button>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="input-container">
+
+            <div class="input-box">
+
+                <textarea
+                    id="message-input"
+                    rows="1"
+                    placeholder="Ask your AI study assistant..."
+                ></textarea>
+
+                <button
+                    id="send-button"
+                    type="button"
+                    aria-label="Send message"
+                >
+                    ➤
+                </button>
+
+            </div>
+
+            <div class="input-hint">
+                Enter to send • Shift + Enter for a new line
+            </div>
+
+        </div>
+
+    </section>
+
+</main>
+
+</div><script src="script.js"></script></body>
+</html>
